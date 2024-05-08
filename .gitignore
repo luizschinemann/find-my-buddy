@@ -1,0 +1,22 @@
+# Dependency directories
+/node_modules
+
+# Production build directory
+/build
+/dist
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+/.vscode
+/.idea
+
+# Editor backup files
+*~
+*.swp
+*.swo
+.DS_Store
